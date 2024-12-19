@@ -15,7 +15,7 @@ The task is to analyze the provided impression network dataset (shared as a Goog
 
 ## Project Overview
 
-The project involves:
+The  involves:
 1. Graph construction from the dataset.
 2. Implementation of algorithms to solve the three tasks:
    - **Random Walk with Teleportation** for leader identification.
@@ -35,7 +35,7 @@ The project involves:
   - Assortativity analysis (connections between similar nodes).
   - Mutuality computation (reciprocated edges in the network).
   - Closeness centrality ranking to measure node influence.
-- `Project_2___2023CSB1140.pdf`: Detailed project documentation, including problem statement, methodologies, pseudo-codes, and results.
+- `Project Report.pdf`: Detailed project documentation, including problem statement, methodologies, pseudo-codes, and results.
 
 ## Dependencies
 
