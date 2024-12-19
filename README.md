@@ -98,7 +98,3 @@ The matrix-based method identifies approximately 3900–4500 missing links depen
 2. [Scikit-Learn Documentation](https://scikit-learn.org/stable/documentation.html)
 3. [Social Network Analysis - Wikipedia](https://en.wikipedia.org/wiki/Social_network_analysis)
 4. [Matplotlib Documentation](https://matplotlib.org/stable/contents.html)
-
-## License
-
-This project is licensed under the MIT License. See `LICENSE` for details.
